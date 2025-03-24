@@ -17,3 +17,5 @@ Imports: here
 Suggests: devtools,
     git2r
 Date: 2025-03-24
+URL: https://github.com/indiasutherland/rrcompendium
+BugReports: https://github.com/indiasutherland/rrcompendium/issues
